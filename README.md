@@ -1,18 +1,19 @@
-## Hi there 👋
-
 # 💫 About Me:
-🔭 I’m a Software Developer with 1+ years of experience in freelance website design and development domain.<br>
+I specialize in crafting clean, user-friendly websites and dynamic web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js). With a strong eye for design and detail, I build responsive, modern, and scalable solutions tailored to your needs.<br><br>💡 Whether you're a startup, business, or individual with a vision — I turn ideas into impactful digital experiences.<br><br>📌 Services I Offer:<br><br>Full-Stack Web Development<br><br>Landing Page Development<br><br>Let’s build something awesome together!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avanti Chouknis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avantichouknis.work@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avantichouknis.work@gmail.com) 
 
 # 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AvantiChouknis29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AvantiChouknis29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvantiChouknis29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AvantiChouknis29&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AvantiChouknis29&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvantiChouknis29&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AvantiChouknis29&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AvantiChouknis29&icon=0&color=0)](https://visitcount.itsvg.in)
