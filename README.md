@@ -5,7 +5,7 @@
 
 I specialize in developing modern and responsive web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy designing systems from scratch, solving complex engineering problems, and building products that are efficient, scalable, and user-focused.
 
-My interests extend beyond web development into **Artificial Intelligence, Machine Learning, and system design**, where I explore ways to build impactful technology-driven solutions.
+
 
 ---
 
