@@ -1,5 +1,5 @@
 # 💫 About Me:
-I specialize in crafting clean, user-friendly websites and dynamic web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js). With a strong eye for design and detail, I build responsive, modern, and scalable solutions tailored to your needs.<br><br>💡 Whether you're a startup, business, or individual with a vision — I turn ideas into impactful digital experiences.<br><br>📌 Services I Offer:<br><br>Full-Stack Web Development<br><br>Landing Page Development<br><br>Let’s build something awesome together!
+I specialize in crafting clean, user-friendly websites and dynamic web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js). With a strong eye for design and detail, I build responsive, modern, and scalable solutions tailored to your needs.<br><br>💡 
 
 
 ## 🌐 Socials:
