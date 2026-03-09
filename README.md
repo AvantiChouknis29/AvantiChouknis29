@@ -27,6 +27,45 @@ I also have experience working on **research projects and patented innovations**
 
 ---
 
+# 🚀 Projects
+
+### 🍎 Nutrient Value Estimator via Fruit Detection
+- Built a machine learning system using **YOLOv8** to detect fruits and estimate their nutrient values.
+- Published research paper based on this project.
+
+### 🎓 Multi-Panel Education Platform(https://unitantra-the-final-frontend.onrender.com/)
+- Designed and developed a **MERN-based web application** with **User, Agency, and Admin panels**.
+- Implemented authentication, university search, and student application management features.
+
+---
+
+# 📑 Research & Patents
+
+- 📄 **Research Paper:**  
+  *Nutrient Value Estimator via Fruit Detection using YOLOv8* published in **IJFMR Journal**.
+
+- 🧾 **Utility Patent Contribution:**  
+  Contributed to the design and system architecture of an **Automated Kiosk-Based Stamp Paper Issuance System** for secure e-governance services.
+
+---
+
+# 💼 Experience
+
+### Web App Developer — SVCWorldEd Pvt. Ltd
+- Developing a **full-stack MERN web application** with multiple user panels.
+- Handling **system architecture, database design, deployment, and feature development**.
+
+### Internship — Techdawn Innovations
+- Contributed to the **design and development of a patent-based project**.
+- Assisted with system architecture discussions and technical solution planning.
+
+---
+
+# 🏆 Achievements
+
+- Published research paper in **International Journal for Multidisciplinary Research (IJFMR)**  
+- Co-invented 2 **Patent projects** in e-governance with Techdawn Innovations Pvt. Ltd. 
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AvantiChouknis29&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)
@@ -40,4 +79,3 @@ I also have experience working on **research projects and patented innovations**
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=AvantiChouknis29&icon=0&color=0)
