@@ -51,11 +51,11 @@ I also have experience working on **research projects and patented innovations**
 
 # 💼 Experience
 
-### Web App Developer — SVCWorldEd Pvt. Ltd
+### Software Developer — (Shri Venkatesh Consultants)-SVCWorldEd
 - Developing a **full-stack MERN web application** with multiple user panels.
 - Handling **system architecture, database design, deployment, and feature development**.
 
-### Internship — Techdawn Innovations
+### Associate: Software Innovation
 - Contributed to the **design and development of a patent-based project**.
 - Assisted with system architecture discussions and technical solution planning.
 
