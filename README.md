@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Avanti
 
-💻 **Full-Stack Developer (MERN)** | Computer Science Engineer  
-🚀 Passionate about building scalable web applications and intelligent software solutions.
+💻 **Full-Stack Developer (MERN) | Computer Science Engineer**  
+🚀 Passionate about building scalable web applications and intelligent software systems.
 
-I specialize in developing modern and responsive web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy designing systems from scratch, solving complex engineering problems, and building products that are efficient, scalable, and user-focused.
+I specialize in developing modern, responsive web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+I enjoy designing systems from scratch, solving complex engineering problems, and building products that are **efficient, scalable, and user-centric**.
 
-
+I also have experience working on **research projects and patented innovations**, where I contributed to system design, technical architecture, and solution development.
 
 ---
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avantichouknis/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avantichouknis.work@gmail.com)
 
 ---
@@ -35,7 +37,7 @@ I specialize in developing modern and responsive web applications using the **ME
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=AvantiChouknis29&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
