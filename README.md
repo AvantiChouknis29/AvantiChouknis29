@@ -37,9 +37,6 @@ I also have experience working on **research projects and patented innovations**
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=AvantiChouknis29&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
 
