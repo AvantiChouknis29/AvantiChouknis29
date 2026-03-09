@@ -72,7 +72,6 @@ I also have experience working on **research projects and patented innovations**
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AvantiChouknis29&theme=shadow_green&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvantiChouknis29&theme=shadow_green&hide_border=true&layout=compact)
 
 ---
 
